@@ -7,7 +7,7 @@ Computer Engineering student @ Suez Canal University | AI developer & content cr
 [![Gmail](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:ziad.1ayman.1@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=ziad0ayman&color=blue)
 
-**📄 [My Resume (PDF)](link-to-your-pdf)** | **📞 +201069872582**
+**📄 [My Resume (PDF)](https://drive.google.com/file/d/17DCR-cF4QIlzDeRA_oXs9dC-oDWObLVT/view?usp=sharing)** | **📞 +201069872582**
 
 ---
 
