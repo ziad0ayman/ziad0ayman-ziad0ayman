@@ -8,11 +8,11 @@ Computer Engineering student @ Suez Canal University | AI developer & content cr
 
 **📄 [My Resume (PDF)](link-to-your-pdf)** | **📞 +201069872582**
 
----
 ### 👨‍💻 About Me
 
 Computer Engineering student with hands-on experience in machine learning, computer vision, and AI-assisted development. Built production-grade applications including an automated whiteboard animation system and a green screen video captioning tool. Proficient in Python, TensorFlow, Scikit-learn, and LLM technologies.
 
+---
 ### Projects I'm proud of
 
 | Project | What it does |
