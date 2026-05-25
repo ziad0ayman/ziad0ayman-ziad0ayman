@@ -1,14 +1,12 @@
-## Hi, I'm Ziad 👋
+## Hi there, I'm Ziad Ayman 👋
 
-I'm a Computer Engineering student at Suez Canal University and an AI developer. I like building practical tools with ML and CV — whiteboard animation systems, crack detection models, captioning apps, that kind of thing.
+Computer Engineering student @ Suez Canal University | AI developer & content creator building practical ML/CV tools.
 
-🔭 **Currently building** — [ChronoSketch AI](https://github.com/ziad0ayman/ChronoSketch_AI) (audio → animated whiteboard video)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ziad-ayman-scu)
+[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)](https://github.com/ziad0ayman)
+[![Gmail](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:ziad.1ayman.1@gmail.com)
 
-🌱 **Learning** — Deep learning, LLMs, production ML
-
-👨‍🏫 **Teaching** — AI/ML track at IEEE SCU Student Branch
-
-📫 **Find me** — [LinkedIn](https://linkedin.com/in/ziad-ayman-scu) · [ziad.1ayman.1@gmail.com](mailto:ziad.1ayman.1@gmail.com)
+**📄 [My Resume (PDF)](link-to-your-pdf)** | **📞 +201069872582**
 
 ---
 
