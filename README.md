@@ -5,7 +5,9 @@ Computer Engineering student @ Suez Canal University | AI developer & content cr
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ziad-ayman-scu)
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)](https://github.com/ziad0ayman)
 [![Gmail](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:ziad.1ayman.1@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-556B92)](https://drive.google.com/file/d/17DCR-cF4QIlzDeRA_oXs9dC-oDWObLVT/view?usp=sharing)  📞 +201069872582
+[![Resume](https://img.shields.io/badge/Resume-556B92)](https://drive.google.com/file/d/17DCR-cF4QIlzDeRA_oXs9dC-oDWObLVT/view?usp=sharing)
+
+📞 +201069872582
 
 
 ### 👨‍💻 About Me
