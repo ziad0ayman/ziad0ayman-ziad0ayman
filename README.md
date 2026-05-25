@@ -65,5 +65,3 @@ Computer Engineering student with hands-on experience in machine learning, compu
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziad0ayman&layout=compact&theme=dark)
 
 ---
-
-*Let's connect — always open to collaborations and new opportunities!*
